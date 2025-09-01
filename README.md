@@ -5,13 +5,13 @@
 
 Nome|RA:
 
-Eric Song Watanabe				|22.125.086-3
+Eric Song Watanabe|22.125.086-3
 
-Paulo Andre O. Hirata				|22.125.072-3
+Paulo Andre O. Hirata|22.125.072-3
 
-Victor Pimentel Lario				|22.125.064-0
+Victor Pimentel Lario|22.125.064-0
 
-Victor Merker Binda				|22.125.075-6
+Victor Merker Binda|22.125.075-6
 
 
 
