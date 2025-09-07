@@ -98,4 +98,11 @@ ATORES:  Eleitor, candidato, admnistrador
 | Fluxo Alternativo |  |
 | Fluxo Exceção | 1. Administrador acessa a  Urna Eletrônica de Gerenciamento./ 2. Administrador gera os relatórios por meio do sistema./ 3. Relatórios não são gerados por ainda não ter nenhum voto registrado.
 
+### Diagrama de caso de uso
+
 <img width="455" height="599" alt="image" src="https://github.com/user-attachments/assets/da7a2079-882f-4776-a166-c689dfd64ec9" />
+
+### Diagrama de classes
+
+![Diagrama de classes (1)](https://github.com/user-attachments/assets/aecf1bbc-497c-4948-8a10-5ed6c1c54426)
+
