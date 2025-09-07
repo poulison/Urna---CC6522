@@ -18,7 +18,7 @@ Victor Merker Binda|22.125.075-6
 
 ATORES:  Eleitor, candidato, admnistrador
 
-CASOS DE USO:
+### CASOS DE USO:
 
 - UC01: Cadastrar Candidato
 - UC02: Cadastrar Eleitor
